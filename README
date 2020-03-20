@@ -4,5 +4,32 @@ web Development 101 Notes
 İlk dersimizi 15 Mart 2020 tarihinde gerçekleştirdik.
 ** Gelecek ders 1 hafta sonra**
 >Bu bir alıntı metni.
+##Homework
+###Basic Commands
+git status = to see if everything is up to date 
+git add = to add one of your files to the repository
+(git add --all = you can add everything)
+(git add . = you can add everything)
+git commit -m = to commit the changes
+git push = to push your changes right into your repository
+###Headings
+"#" = The largest heading 
+"##" = The second largest heading
+"######" = The smallest heading
+###Styling Text 
+Bold = ** or __ 
+> **This is bold text**
+Italic = * * or _ _ 
+> *This is italicized*
+Strikethrough = ~~ ~~
+> ~~This was mistaken text~~
+Bold and nested italic = ** ** and __
+> **This text is _extremely_ important**
+All bold and italic = *** ***
+> ***All this text is important***
+###Quoting Text 
+> = you can quote text with this
+In the words of Abraham Lincoln:
+>Pardon my French
 
-### Web Development 101 v.1 
+######Webdevelopment101
